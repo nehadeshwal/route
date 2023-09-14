@@ -1,0 +1,19 @@
+{
+    "name": "tnq/routes",
+    "description": "Http Routing Component for PHP",
+    "require": {
+        "php": ">=5.4.0",
+        "silex/silex": "2.0.4",
+        "symfony/config": "3.2.1",
+        "symfony/validator": "3.2.1",
+        "symfony/serializer": "3.2.1"
+    },
+    "autoload": {
+        "psr-0": {
+          "Tnq\\Routes\\Request": "app/",
+          "Tnq\\Routes\\Response": "app/",
+          "Tnq\\Routes\\Logger": "app/"
+        }
+    },
+    "minimum-stability": "dev"
+}
