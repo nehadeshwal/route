@@ -3,9 +3,9 @@
     "description": "Http Routing Component for PHP",
     "require": {
         "php": ">=8.2",
-        "symfony/config": "6.3.2",
-        "symfony/validator": "6.3.4",
-        "symfony/serializer": "6.3.4"
+        "symfony/config": "6.0.0",
+        "symfony/validator": "6.0.0",
+        "symfony/serializer": "6.0.0"
     },
     "autoload": {
         "psr-0": {
