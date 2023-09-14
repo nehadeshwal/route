@@ -2,11 +2,11 @@
     "name": "tnq/routes",
     "description": "Http Routing Component for PHP",
     "require": {
-        "php": ">=5.4.0",
-        "silex/silex": "2.0.4",
-        "symfony/config": "3.2.1",
-        "symfony/validator": "3.2.1",
-        "symfony/serializer": "3.2.1"
+        "php": ">=8.2",
+        "silex/silex": "2.3.0",
+        "symfony/config": "6.3.2",
+        "symfony/validator": "6.3.4",
+        "symfony/serializer": "6.3.4"
     },
     "autoload": {
         "psr-0": {
