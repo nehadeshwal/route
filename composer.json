@@ -3,7 +3,7 @@
     "description": "Http Routing Component for PHP",
     "require": {
         "php": ">=8.2",
-        "silex/silex": "2.3.3",
+        "symfony/flex": "2.3.3",
         "symfony/config": "6.0.0",
         "symfony/validator": "6.0.0",
         "symfony/serializer": "6.0.0"
